@@ -1,7 +1,6 @@
-# Easiest Application System
-**Note this Discord Bot Repository is the Same as for the Public Bot [Easiest Application Bot](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) if u want to support me, then please [invite](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) him!**
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/g3xDYkCsGY)
 
 ## Installation | How to use the Bot
 
@@ -21,26 +20,17 @@
 
 
 
-# SHORT OVERVIEW TUTORIAL!
-[![](https://img.youtube.com/vi/5EwcBjMMtdY/maxresdefault.jpg)](https://youtu.be/X2yqNtd3COE "")
+
 
 
 <br/>
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
-
+## [Discord Server 😎](https://discord.gg/g3xDYkCsGY) | 
 ***
 
 ## SUPPORT ME AND MILRATO DEVELOPMENT
-
-> You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
 
 # Credits
 
